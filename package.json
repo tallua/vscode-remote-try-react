@@ -1,0 +1,38 @@
+{
+  "name": "vscode-remote-try-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tallua/vscode-remote-try-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tallua/vscode-remote-try-react/issues"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "homepage": "https://github.com/tallua/vscode-remote-try-react#readme",
+  "dependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.38",
+    "@types/react": "^18.0.10",
+    "@types/react-dom": "^18.0.5",
+    "react-scripts": "^5.0.1",
+    "typescript": "^4.7.2"
+  }
+}
